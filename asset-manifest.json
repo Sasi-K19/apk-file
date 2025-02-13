@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apk-file/static/css/main.03c09336.css",
+    "main.js": "/apk-file/static/js/main.2982e254.js",
+    "static/js/453.f84c2bca.chunk.js": "/apk-file/static/js/453.f84c2bca.chunk.js",
+    "index.html": "/apk-file/index.html",
+    "main.03c09336.css.map": "/apk-file/static/css/main.03c09336.css.map",
+    "main.2982e254.js.map": "/apk-file/static/js/main.2982e254.js.map",
+    "453.f84c2bca.chunk.js.map": "/apk-file/static/js/453.f84c2bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c09336.css",
+    "static/js/main.2982e254.js"
+  ]
+}
